@@ -1,0 +1,7 @@
+.vc-fake-voice-options svg {
+    color: var(--interactive-normal);
+}
+
+:is(.vc-fake-voice-options:hover, .vc-fake-voice-options[class*='selected']) svg {
+    color: var(--interactive-active);
+}
