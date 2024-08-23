@@ -1,3 +1,6 @@
+### BROKEN !!
+
+
 ### FakeVoiceOptions
 
 A Vencord plugin which shows that you are deafened & muted to others, while in reality you can still hear them.
